@@ -2,7 +2,7 @@
 
 == DESCRIPTION:
 
-This is my talk on Agile processes introduction including slides, exercises, outlines and all supporting files.
+This is my talk on Agile processes introduction including slides, exercises, outlines and all supporting files. I will fork a branch for each re-incarnation of the same talk for different events.
 
 == LICENSE:
 
@@ -25,4 +25,5 @@ you get  permission from the copyright holder. Your fair use and other
 rights are in no way affected by the above.
 
 Copyright (c) 2009 - Renzo Borgatti
+
 http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode
