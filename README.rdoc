@@ -1,8 +1,8 @@
-= Introduction to Agile Development Talk
+= Introduction to Agile Development
 
 == DESCRIPTION:
 
-Agile processes introduction talk slides, exercises, outlines and supporting files.
+This is my talk on Agile processes introduction including slides, exercises, outlines and all supporting files.
 
 == LICENSE:
 
